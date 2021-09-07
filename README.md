@@ -1,1 +1,3 @@
-git-project-qa-js-kim
+## Read Me ##
+*Text about project*
+Test project
